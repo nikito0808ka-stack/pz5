@@ -7,9 +7,11 @@
 ## Задание 2 Найти площадь круга по известному радиусу.
 
 <img width="1108" height="532" alt="image" src="https://github.com/user-attachments/assets/2542d9c0-b097-45e0-aa58-d1d89b0774bc" />
+
 ## Задание 3 Вычислить среднее арифметическое трёх чисел.
 
 <img width="1064" height="495" alt="image" src="https://github.com/user-attachments/assets/356cf19f-3ee4-4888-9dcb-e278a6ea1e60" />
+
 ## Задание 4 Найти стоимость покупки, если известна цена одного товара и количество товаров.
 
 <img width="1038" height="542" alt="image" src="https://github.com/user-attachments/assets/02742a1b-f9b1-4680-aabc-1c42c9cf6472" />
